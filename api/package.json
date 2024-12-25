@@ -1,0 +1,14 @@
+{
+  "name": "suptickt",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "type": "module",
+  "scripts": {
+    "server": "node --watch ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thiago R. I. Brito <https://github.com/trybrito>",
+  "license": "ISC",
+  "description": "API de gerenciamento de tickets de suporte"
+}
