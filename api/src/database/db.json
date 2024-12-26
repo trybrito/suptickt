@@ -1,0 +1,33 @@
+{
+  "tickets": [
+    {
+      "id": "d71f79ba-2125-49ac-8033-70b2c241b97a",
+      "equipment": "PinPad",
+      "description": "Não realiza leitura de cartão",
+      "user_name": "Rodrigo",
+      "status": "closed",
+      "created_at": "2024-12-25T15:14:51.806Z",
+      "updated_at": "2024-12-26T16:46:20.033Z",
+      "solution": "Equipamento trocado"
+    },
+    {
+      "id": "4f568ec7-69b5-4a54-aeab-2ab89c5aeedc",
+      "equipment": "Nobreak",
+      "description": "Nobreak não liga",
+      "user_name": "Amanda",
+      "status": "open",
+      "created_at": "2024-12-25T15:23:22.199Z",
+      "updated_at": "2024-12-25T15:23:22.199Z"
+    },
+    {
+      "id": "ff9f6154-ca4d-4dab-9e0c-8b811afb8068",
+      "equipment": "Computador",
+      "description": "Abre várias telas sem que cliquemos em nada",
+      "user_name": "Thiago",
+      "status": "closed",
+      "created_at": "2024-12-26T16:47:59.682Z",
+      "updated_at": "2024-12-26T16:49:50.568Z",
+      "solution": "Varredura de arquivos realizada, malwares eliminados"
+    }
+  ]
+}
